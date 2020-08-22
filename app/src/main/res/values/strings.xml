@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChackJokes</string>
+    <string name="jokes">Jokes</string>
+    <string name="web">Web</string>
+    <string name="count">Count</string>
+    <string name="reload">Reload</string>
+    <string name="apiInfo">Api Info</string>
+    <string name="noJokes">Шуток нет(</string>
+    <string name="pleaseWait">Пожалуйста, подождите…</string>
+    <string name="errorDownloading">Ошибка при загрузке</string>
+
+    <integer name="jokeRvCardHeight">60</integer>
+</resources>
